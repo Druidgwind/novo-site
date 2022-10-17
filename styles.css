@@ -88,10 +88,9 @@ section p {
 .social-list {
     margin-top: 24px;
     display: flex;
-    flex-wrap: wrap;
     gap: 16px;
-    margin-left: 38%;
-
+    align-items: center;
+    justify-content: center;
 }
 
 section ul li {
