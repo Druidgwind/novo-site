@@ -1,10 +1,8 @@
 # Meu Site
 
-preview
+Projeto criado com meu conhecimento adqurido com algumas aulas de front-end do curso NLW Explorer.
 
-Projeto criado com meu conhecimento adqurido com algumas aulas de front-end.
-
-[Clique aqui para acessar] (site)
+[Site] (https://druidgwind.github.io/novo-site/)
 
 
 ## Tecnologias 
