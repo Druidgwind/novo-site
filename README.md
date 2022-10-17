@@ -1,6 +1,5 @@
 # Meu Site
 
-Prévia:
 ![Prévia do Site](preview.jpg)
 
 Projeto criado com meu conhecimento adqurido com algumas aulas de front-end do curso NLW Explorer.
