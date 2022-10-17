@@ -7,6 +7,13 @@
 ul {
     list-style: none;
     color: #ececef;
+}
+
+.quem-sou {
+    text-align: justify;
+}
+
+.formacao {
     text-align: center;
 }
 
@@ -69,7 +76,7 @@ section {
 
 section div {
     background-color: #262629;
-    padding: 32px;
+    padding: 20px;
     padding-top: 24px;
     border-radius: 8px;
 }
